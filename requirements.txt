@@ -1,0 +1,12 @@
+pandas
+numpy
+python-dateutil
+plotly
+matplotlib
+seaborn
+streamlit
+jupyter
+notebook
+nbformat
+ipython
+ipykernel
