@@ -2,14 +2,14 @@
 
 ## 📖 Introduction  
 Daily commutes can silently affect stress levels due to factors like travel time, mode of transport, and unpredictability.  
-This project — **Silent Commute Stress Tracker** — analyzes commuting patterns, estimates stress scores, and visualizes insights using Python and Streamlit.  
+This project analyzes commuting patterns, estimates stress scores, and visualizes insights using Python and Streamlit.  
 It demonstrates how **data cleaning, feature engineering, and interactive dashboards** can uncover hidden lifestyle stress factors.  
 
 ## 🔗 Live Link  
 👉 [Click here to explore the deployed dashboard](https://silentcommutestresstracker.streamlit.app/)  
 
 ## 🖼️ Image Preview  
-<img src="preview.png"> 
+<img src="Preview.png"> 
 
 ## ✨ Features  
 - 📊 **Data Cleaning & Preprocessing** of raw commute logs  
