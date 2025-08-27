@@ -1,4 +1,4 @@
-# 🚇 Silent Commute Stress Tracker | Data Analytics & Visualization  
+# 🚇 Commute Stress Tracker | Data Analytics & Visualization  
 
 ## 📖 Introduction  
 Daily commutes can silently affect stress levels due to factors like travel time, mode of transport, and unpredictability.  
