@@ -63,7 +63,7 @@ It demonstrates how **data cleaning, feature engineering, and interactive dashbo
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/silent-commute-stress-tracker.git
+   git clone https://github.com/Anushka-Sharma-008/silent-commute-stress-tracker.git
    cd silent-commute-stress-tracker
    ```
 2. **Install dependencies**
